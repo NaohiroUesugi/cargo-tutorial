@@ -9,5 +9,9 @@ edition = "2021"
 name = "guessing-game"
 path = "src/guessing-game/main.rs"
 
+[[bin]]
+name = "common-concepts"
+path = "src/common-concepts/main.rs"
+
 [dependencies]
 rand = "0.8.3"

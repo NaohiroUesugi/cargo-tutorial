@@ -19,3 +19,7 @@ ex)
 cargo run --bin guessing-game
 
 ```
+
+## Step
+0. guessing-game
+1. common-concepts
