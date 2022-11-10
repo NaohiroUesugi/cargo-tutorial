@@ -1,6 +1,6 @@
 # cargo-tutorial
 
-``` Cargo.toml
+```
 [[bin]]
 name = "[name]"
 path = "src/[path]"
