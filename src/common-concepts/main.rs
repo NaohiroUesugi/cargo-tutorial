@@ -3,6 +3,7 @@ const GROBAL_POINTS: u32 = 200_000;
 
 fn main() {
     sandbox_variables();
+    sandbox_data_tyles();
 }
 
 fn sandbox_variables() {
@@ -27,3 +28,5 @@ fn sandbox_variables() {
 
     println!("The value of shadow is: {}", shadow);
 }
+
+fn sandbox_data_tyles() {}
